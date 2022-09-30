@@ -3,13 +3,13 @@
 <img src= "oneeye.png" width='300'/>
 
 # Description
-## blah 
+## This project involved setting mouse events to the coordinates of a shapes, i.e the pupils of a pair of eyes.
 
 # How To Run 
-## blah 
+## Download the files present in this repository, minding they are all in the same file. Then you can drag and drop (run) the index.html file in your browser.  
 
 # Roadmap for Future Improvements
-## blah
+## I'd like to trigger a pupil color change based upon the direction the pupil is pointing. Every time the pupil changes color, the user must rotate the eyes again to find the new (randomly set) direction in order to change the color again. 
 
 # License
 ##  MIT License
